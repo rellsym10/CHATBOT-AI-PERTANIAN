@@ -1,0 +1,20 @@
+# --- File & Folder Konfigurasi Sensitif ---
+.env
+credentials/
+
+# --- File Eksekusi & Log Sementara ---
+ngrok.exe
+.ngrok.exe.old
+downloads/
+runs/
+detected/
+
+# --- File Log & Database Lokal (Opsional, jika ingin diabaikan) ---
+log_konsultasi.json
+log_pesan_teks.json
+conversations.json
+
+# --- Python Cache (Opsional tapi disarankan) ---
+__pycache__/
+*.py[cod]
+*$py.class
