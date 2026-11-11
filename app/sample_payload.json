@@ -1,0 +1,20 @@
+{
+  "entry": [
+    {
+      "changes": [
+        {
+          "value": {
+            "messages": [
+              {
+                "from": "6282252710467",
+                "text": {
+                  "body": "halo dari curl"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

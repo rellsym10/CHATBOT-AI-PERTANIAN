@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "user": "6282252710467",
+    "message_type": "image",
+    "image": "downloads/2205185433630886.jpg",
+    "detection_result": "Busuk Buah Antraknosa (akurasi 0.87)",
+    "response_time_sec": 16.37,
+    "timestamp": "2026-04-22T21:42:02.065438",
+    "date": "2026-04-22"
+  },
+  {
+    "id": 2,
+    "user": "6282252710467",
+    "message_type": "image",
+    "image": "downloads/946649704881946.jpg",
+    "detection_result": "Bercak Daun Serkospora (akurasi 0.69)",
+    "response_time_sec": 16.3,
+    "timestamp": "2026-04-22T21:50:14.875496",
+    "date": "2026-04-22"
+  },
+  {
+    "id": 3,
+    "user": "6282252710467",
+    "message_type": "image",
+    "image": "downloads/1519086506400937.jpg",
+    "detection_result": "Virus Kuning (akurasi 0.91)",
+    "response_time_sec": 13.83,
+    "timestamp": "2026-04-22T21:55:16.675494",
+    "date": "2026-04-22"
+  },
+  {
+    "id": 4,
+    "user": "6282252710467",
+    "message_type": "image",
+    "image": "downloads/940369858862117.jpg",
+    "detection_result": "Bercak Daun Serkospora (akurasi 0.65)",
+    "response_time_sec": 14.69,
+    "timestamp": "2026-04-22T21:57:06.352458",
+    "date": "2026-04-22"
+  },
+  {
+    "id": 5,
+    "user": "6282252710467",
+    "message_type": "image",
+    "image": "downloads/834343469703508.jpg",
+    "detection_result": "Tidak ada penyakit yang dikenali pada tanaman.",
+    "response_time_sec": 14.93,
+    "timestamp": "2026-04-22T21:58:58.863841",
+    "date": "2026-04-22"
+  },
+  {
+    "id": 6,
+    "user": "6282252710467",
+    "message_type": "image",
+    "image": "downloads/1264911115622258.jpg",
+    "detection_result": "Tidak ada penyakit yang dikenali pada tanaman.",
+    "response_time_sec": 24.78,
+    "timestamp": "2026-04-22T22:02:48.193016",
+    "date": "2026-04-22"
+  },
+  {
+    "id": 7,
+    "user": "6282252710467",
+    "message_type": "image",
+    "image": "downloads/2383674278786430.jpg",
+    "detection_result": "sistem tidak mengenali gambar.",
+    "response_time_sec": 5.07,
+    "timestamp": "2026-04-22T22:05:24.788503",
+    "date": "2026-04-22"
+  },
+  {
+    "id": 8,
+    "user": "6282252710467",
+    "message_type": "image",
+    "image": "downloads/830701336170071.jpg",
+    "detection_result": "sistem tidak mengenali gambar.",
+    "response_time_sec": 6.17,
+    "timestamp": "2026-04-22T22:07:19.761724",
+    "date": "2026-04-22"
+  },
+  {
+    "id": 9,
+    "user": "6282252710467",
+    "message_type": "image",
+    "image": "downloads/969875102462667.jpg",
+    "detection_result": "Virus Kuning (akurasi 0.91)",
+    "response_time_sec": 8.84,
+    "timestamp": "2026-05-12T11:14:09.187852",
+    "date": "2026-05-12"
+  },
+  {
+    "id": 10,
+    "user": "6282252710467",
+    "message_type": "image",
+    "image": "downloads/839829501979360.jpg",
+    "detection_result": "Busuk Buah Antraknosa (akurasi 0.87)",
+    "response_time_sec": 6.21,
+    "timestamp": "2026-05-12T11:14:56.362339",
+    "date": "2026-05-12"
+  },
+  {
+    "id": 11,
+    "user": "6282252710467",
+    "message_type": "image",
+    "image": "downloads/976049941472047.jpg",
+    "detection_result": "Bercak Daun Serkospora (akurasi 0.91)",
+    "response_time_sec": 7.22,
+    "timestamp": "2026-05-12T11:19:05.154517",
+    "date": "2026-05-12"
+  },
+  {
+    "id": 12,
+    "user": "6282252710467",
+    "message_type": "image",
+    "image": "downloads/2088385955353772.jpg",
+    "detection_result": "Virus Kuning (akurasi 0.74)",
+    "response_time_sec": 8.22,
+    "timestamp": "2026-05-12T11:31:14.419790",
+    "date": "2026-05-12"
+  },
+  {
+    "id": 13,
+    "user": "6282252710467",
+    "message_type": "image",
+    "image": "downloads/1752461512790519.jpg",
+    "detection_result": "Bercak Daun Serkospora (akurasi 0.95)",
+    "response_time_sec": 9.96,
+    "timestamp": "2026-05-30T10:30:45.343768",
+    "date": "2026-05-30"
+  },
+  {
+    "id": 14,
+    "user": "6282252710467",
+    "message_type": "image",
+    "image": "downloads/2166275124162466.jpg",
+    "detection_result": "Busuk Buah Antraknosa (akurasi 0.92)",
+    "response_time_sec": 10.47,
+    "timestamp": "2026-05-30T10:35:28.920561",
+    "date": "2026-05-30"
+  },
+  {
+    "id": 15,
+    "user": "6282252710467",
+    "message_type": "image",
+    "image": "downloads/956374680732580.jpg",
+    "detection_result": "Daun Cabai Sehat (akurasi 0.96)",
+    "response_time_sec": 2.28,
+    "timestamp": "2026-05-30T10:37:30.290978",
+    "date": "2026-05-30"
+  },
+  {
+    "id": 16,
+    "user": "6282252710467",
+    "message_type": "image",
+    "image": "downloads/1896441854360830.jpg",
+    "detection_result": "Buah Cabai Sehat (akurasi 0.96)",
+    "response_time_sec": 7.77,
+    "timestamp": "2026-05-30T12:34:54.702292",
+    "date": "2026-05-30"
+  },
+  {
+    "id": 17,
+    "user": "6282252710467",
+    "message_type": "image",
+    "image": "downloads/1685864559121892.jpg",
+    "detection_result": "Daun Cabai Sehat (akurasi 0.84)",
+    "response_time_sec": 7.23,
+    "timestamp": "2026-05-30T12:35:24.244719",
+    "date": "2026-05-30"
+  },
+  {
+    "id": 18,
+    "user": "6282252710467",
+    "message_type": "image",
+    "image": "downloads/1495201345438375.jpg",
+    "detection_result": "Buah Cabai Sehat (akurasi 0.90)",
+    "response_time_sec": 6.64,
+    "timestamp": "2026-06-01T21:35:00.459249",
+    "date": "2026-06-01"
+  },
+  {
+    "id": 19,
+    "user": "6282252710467",
+    "message_type": "image",
+    "image": "downloads/1494898828751949.jpg",
+    "detection_result": "Bercak Daun Serkospora (akurasi 0.96)",
+    "response_time_sec": 3.95,
+    "timestamp": "2026-06-01T21:42:56.118816",
+    "date": "2026-06-01"
+  },
+  {
+    "id": 20,
+    "user": "6282252710467",
+    "message_type": "image",
+    "image": "downloads/1611165436625546.jpg",
+    "detection_result": "Busuk Buah Antraknosa (akurasi 0.89)",
+    "response_time_sec": 3.27,
+    "timestamp": "2026-06-01T21:45:06.807777",
+    "date": "2026-06-01"
+  },
+  {
+    "id": 21,
+    "user": "6282252710467",
+    "message_type": "image",
+    "image": "downloads/1657737928870691.jpg",
+    "detection_result": "Virus Kuning (akurasi 0.90)",
+    "response_time_sec": 12.29,
+    "timestamp": "2026-06-01T21:58:09.911611",
+    "date": "2026-06-01"
+  },
+  {
+    "id": 22,
+    "user": "6282252710467",
+    "message_type": "image",
+    "image": "downloads/883836208081847.jpg",
+    "detection_result": "Virus Kuning (akurasi 0.85)",
+    "response_time_sec": 10.38,
+    "timestamp": "2026-06-01T22:00:23.637764",
+    "date": "2026-06-01"
+  },
+  {
+    "id": 23,
+    "user": "6282252710467",
+    "message_type": "image",
+    "image": "downloads/974067712292798.jpg",
+    "detection_result": "Virus Kuning (akurasi 0.83)",
+    "response_time_sec": 16.07,
+    "timestamp": "2026-06-18T20:43:48.946819",
+    "date": "2026-06-18"
+  },
+  {
+    "id": 24,
+    "user": "6282252710467",
+    "message_type": "image",
+    "image": "downloads/2219358698810111.jpg",
+    "detection_result": "Virus Kuning (Confidence 0.83)",
+    "response_time_sec": 13.52,
+    "timestamp": "2026-06-18T21:20:56.019289",
+    "date": "2026-06-18"
+  },
+  {
+    "id": 25,
+    "user": "6282252710467",
+    "message_type": "image",
+    "image": "downloads/1432553225304590.jpg",
+    "detection_result": "Busuk Buah Antraknosa (Confidence 0.94)",
+    "response_time_sec": 16.0,
+    "timestamp": "2026-06-18T21:25:22.451834",
+    "date": "2026-06-18"
+  },
+  {
+    "id": 26,
+    "user": "6282252710467",
+    "message_type": "image",
+    "image": "downloads/2037235137218597.jpg",
+    "detection_result": "Virus Kuning (Confidence : 0.83)",
+    "response_time_sec": 17.81,
+    "timestamp": "2026-06-20T08:39:41.736265",
+    "date": "2026-06-20"
+  },
+  {
+    "id": 27,
+    "user": "6282252710467",
+    "message_type": "image",
+    "image": "downloads/1490385326108769.jpg",
+    "detection_result": "Busuk Buah Antraknosa (Confidence : 0.94)",
+    "response_time_sec": 10.15,
+    "timestamp": "2026-06-20T08:41:49.810905",
+    "date": "2026-06-20"
+  },
+  {
+    "id": 28,
+    "user": "6282252710467",
+    "message_type": "image",
+    "image": "downloads/3142548935940634.jpg",
+    "detection_result": "Busuk Buah Antraknosa (Confidence : 0.80)",
+    "response_time_sec": 12.01,
+    "timestamp": "2026-06-23T14:59:31.829898",
+    "date": "2026-06-23"
+  },
+  {
+    "id": 29,
+    "user": "6282252710467",
+    "message_type": "image",
+    "image": "downloads/1623975718693049.jpg",
+    "detection_result": "Busuk Buah Antraknosa (Confidence : 0.63)",
+    "response_time_sec": 11.25,
+    "timestamp": "2026-06-23T15:00:57.684075",
+    "date": "2026-06-23"
+  },
+  {
+    "id": 30,
+    "user": "6282252710467",
+    "message_type": "image",
+    "image": "downloads/2006247730097003.jpg",
+    "detection_result": "Gambar Tanaman tidak dapat dikenali oleh sistem.",
+    "response_time_sec": 9.49,
+    "timestamp": "2026-06-23T15:02:45.242453",
+    "date": "2026-06-23"
+  },
+  {
+    "id": 31,
+    "user": "6282252710467",
+    "message_type": "image",
+    "image": "downloads/1603896777972764.jpg",
+    "detection_result": "Gambar Tanaman tidak dapat dikenali oleh sistem.",
+    "response_time_sec": 9.26,
+    "timestamp": "2026-06-23T15:12:05.225817",
+    "date": "2026-06-23"
+  },
+  {
+    "id": 32,
+    "user": "6282252710467",
+    "message_type": "image",
+    "image": "downloads/1692436935332536.jpg",
+    "detection_result": "Gambar Tanaman tidak dapat dikenali oleh sistem.",
+    "response_time_sec": 9.55,
+    "timestamp": "2026-06-23T15:15:46.002141",
+    "date": "2026-06-23"
+  }
+]

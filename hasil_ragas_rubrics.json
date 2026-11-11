@@ -1,0 +1,82 @@
+[
+  {
+    "No":1,
+    "Pertanyaan":"Mengapa irigasi tetes lebih baik daripada irigasi banjir?",
+    "Relevansi":5,
+    "Akurasi":5,
+    "Kejelasan":5,
+    "Rata-rata":5.0
+  },
+  {
+    "No":2,
+    "Pertanyaan":"Apa peran penting plasma nutfah dalam pemuliaan tanaman?",
+    "Relevansi":5,
+    "Akurasi":4,
+    "Kejelasan":5,
+    "Rata-rata":4.67
+  },
+  {
+    "No":3,
+    "Pertanyaan":"Tanaman tomat saya layu padahal sudah disiram, apa penyebabnya dan bagaimana solusinya?",
+    "Relevansi":5,
+    "Akurasi":5,
+    "Kejelasan":5,
+    "Rata-rata":5.0
+  },
+  {
+    "No":4,
+    "Pertanyaan":"Bagaimana cara mengatasi hama ulat pada tanaman kubis secara alami?",
+    "Relevansi":4,
+    "Akurasi":4,
+    "Kejelasan":4,
+    "Rata-rata":4.0
+  },
+  {
+    "No":5,
+    "Pertanyaan":"Pupuk apa yang cocok untuk mempercepat pertumbuhan jagung?",
+    "Relevansi":5,
+    "Akurasi":4,
+    "Kejelasan":5,
+    "Rata-rata":4.67
+  },
+  {
+    "No":6,
+    "Pertanyaan":"Cara budidaya tanaman cabai yang baik dan benar",
+    "Relevansi":4,
+    "Akurasi":3,
+    "Kejelasan":4,
+    "Rata-rata":3.67
+  },
+  {
+    "No":7,
+    "Pertanyaan":"Daun padi saya menguning dan ada bercak coklat, itu penyakit apa dan bagaimana mengatasinya?",
+    "Relevansi":5,
+    "Akurasi":4,
+    "Kejelasan":5,
+    "Rata-rata":4.67
+  },
+  {
+    "No":8,
+    "Pertanyaan":"Kapan waktu yang tepat untuk menanan padi",
+    "Relevansi":4,
+    "Akurasi":4,
+    "Kejelasan":4,
+    "Rata-rata":4.0
+  },
+  {
+    "No":9,
+    "Pertanyaan":"Apa fungsi pupuk NPK pada tanaman",
+    "Relevansi":5,
+    "Akurasi":5,
+    "Kejelasan":5,
+    "Rata-rata":5.0
+  },
+  {
+    "No":10,
+    "Pertanyaan":"Bagaimana cara mengatasi tanaman terong saya yg terkena jamur?",
+    "Relevansi":5,
+    "Akurasi":4,
+    "Kejelasan":5,
+    "Rata-rata":4.67
+  }
+]

@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['Bercak Daun Serkospora', 'Buah Cabai Sehat', 'Busuk Buah Antraknosa', 'Daun Cabai Sehat', 'Virus Kuning']
+
+roboflow:
+  workspace: learning-yolo-xlaxv
+  project: chili-disease-zzzzm-grdl8
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/learning-yolo-xlaxv/chili-disease-zzzzm-grdl8/dataset/1

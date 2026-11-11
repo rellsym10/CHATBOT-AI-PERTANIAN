@@ -1,0 +1,365 @@
+====================================================================================================
+PROMPT LLM AS A JUDGE - SIAP COPY-PASTE KE CLAUDE.AI / CHATGPT
+Petunjuk: Copy SATU prompt di bawah (dari === PROMPT N === sampai akhir)
+ke Claude.ai atau ChatGPT, lalu catat hasil JSON yang dikembalikan.
+====================================================================================================
+
+=== PROMPT 1 ===
+
+Anda adalah evaluator ahli pertanian yang bertugas menilai kualitas jawaban chatbot konsultasi pertanian.
+
+PERTANYAAN PENGGUNA:
+"Mengapa irigasi tetes lebih baik daripada irigasi banjir?"
+
+JAWABAN CHATBOT:
+"Irigasi tetes lebih baik daripada irigasi banjir karena beberapa hal utama:
+
+💧 Hemat air: Air langsung diberikan ke akar tanaman, jadi tidak banyak yang terbuang karena menguap atau mengalir ke tempat lain. Irigasi banjir boros air.
+🌱 Nutrisi pas: Pupuk bisa dicampur dengan air irigasi tetes (fertigasi), jadi tanaman langsung dapat nutrisi yang dibutuhkan.
+🌿 Kurangi gulma: Hanya area sekitar tanaman yang basah, jadi gulma di antara barisan tanaman tidak tumbuh banyak.
+🦠 Kurangi penyakit: Daun tanaman tetap kering, sehingga mengurangi risiko penyakit jamur yang suka kondisi lembap.
+💪 Hasil lebih baik: Tanaman mendapatkan air dan nutrisi secara konsisten dan tepat, sehingga bisa tumbuh lebih sehat dan hasil panen lebih optimal."
+
+Nilai jawaban chatbot tersebut berdasarkan tiga kriteria berikut, masing-masing dengan skala 1 sampai 5:
+
+1. Relevansi: Apakah jawaban sesuai dan menjawab pertanyaan yang diajukan?
+2. Akurasi: Apakah informasi yang diberikan secara umum benar berdasarkan praktik pertanian yang berlaku?
+3. Kejelasan: Apakah jawaban mudah dipahami oleh petani awam?
+
+Balas HANYA dengan format JSON berikut, tanpa teks tambahan:
+{"relevansi": <angka 1-5>, "akurasi": <angka 1-5>, "kejelasan": <angka 1-5>, "alasan": "<penjelasan singkat 1 kalimat>"}
+
+
+----------------------------------------------------------------------------------------------------
+
+=== PROMPT 2 ===
+
+Anda adalah evaluator ahli pertanian yang bertugas menilai kualitas jawaban chatbot konsultasi pertanian.
+
+PERTANYAAN PENGGUNA:
+"Apa peran penting plasma nutfah dalam pemuliaan tanaman?"
+
+JAWABAN CHATBOT:
+"Plasma nutfah itu ibarat 'gudang' atau 'perpustakaan' semua jenis genetik tanaman yang ada, Pak/Bu. 📚 Isinya sifat-sifat baik dari berbagai tanaman.
+
+Peran pentingnya dalam pemuliaan tanaman adalah:
+1.  Sumber bahan baku: Petani atau peneliti bisa mencari sifat unggul dari situ, misalnya tanaman yang tahan penyakit, hasil panennya banyak, atau rasanya enak. 🌱
+2.  Menciptakan varietas baru: Dengan menggabungkan sifat-sifat ini, kita bisa membuat bibit tanaman baru yang lebih kuat, lebih produktif, dan lebih cocok untuk kondisi pertanian kita. 💪
+
+Jadi, plasma nutfah ini sangat penting untuk menghasilkan tanaman yang lebih baik dan menguntungkan petani."
+
+Nilai jawaban chatbot tersebut berdasarkan tiga kriteria berikut, masing-masing dengan skala 1 sampai 5:
+
+1. Relevansi: Apakah jawaban sesuai dan menjawab pertanyaan yang diajukan?
+2. Akurasi: Apakah informasi yang diberikan secara umum benar berdasarkan praktik pertanian yang berlaku?
+3. Kejelasan: Apakah jawaban mudah dipahami oleh petani awam?
+
+Balas HANYA dengan format JSON berikut, tanpa teks tambahan:
+{"relevansi": <angka 1-5>, "akurasi": <angka 1-5>, "kejelasan": <angka 1-5>, "alasan": "<penjelasan singkat 1 kalimat>"}
+
+
+----------------------------------------------------------------------------------------------------
+
+=== PROMPT 3 ===
+
+Anda adalah evaluator ahli pertanian yang bertugas menilai kualitas jawaban chatbot konsultasi pertanian.
+
+PERTANYAAN PENGGUNA:
+"Tanaman tomat saya layu padahal sudah disiram, apa penyebabnya dan bagaimana solusinya?"
+
+JAWABAN CHATBOT:
+"Halo Pak/Bu Tani, 🧑‍🌾
+Tanaman tomat layu padahal sudah disiram bisa jadi karena beberapa hal.
+
+🌱 Penyakit / Masalah:
+Layu pada tanaman tomat meski sudah disiram.
+
+🔍 Penyebab:
+- Akar busuk: Terlalu banyak air atau tanah padat membuat akar tidak bisa bernapas dan menyerap air.
+- Penyakit layu bakteri atau layu fusarium: Penyakit ini menyumbat saluran air di dalam batang tanaman.
+- Hama nematoda: Cacing kecil di tanah yang merusak akar, sehingga akar tidak bisa menyerap air dengan baik.
+- Hama penggerek batang: Merusak batang sehingga aliran air dan nutrisi terhambat.
+
+🛠 Cara Penanganan:
+1.  Periksa akar dan batang. Coba gali sedikit tanah di sekitar pangkal batang, lihat apakah akarnya busuk atau ada benjolan (nematoda). Belah batang, lihat apakah ada bercak coklat atau hitam di dalamnya.
+2.  Pastikan tanah memiliki drainase yang baik. Jika tanah terlalu padat, gemburkan. Kurangi frekuensi penyiraman jika tanah masih basah.
+3.  Jika terbukti ada penyakit layu bakteri atau layu fusarium, segera cabut tanaman yang sakit dan buang jauh-jauh agar tidak menular ke tanaman lain.
+4.  Untuk hama nematoda, bisa gunakan mulsa plastik atau rotasi tanaman. Jika parah, bisa gunakan nematisida sesuai dosis.
+5.  Untuk hama penggerek batang, bersihkan gulma di sekitar tanaman dan bisa gunakan insektisida jika serangan parah."
+
+Nilai jawaban chatbot tersebut berdasarkan tiga kriteria berikut, masing-masing dengan skala 1 sampai 5:
+
+1. Relevansi: Apakah jawaban sesuai dan menjawab pertanyaan yang diajukan?
+2. Akurasi: Apakah informasi yang diberikan secara umum benar berdasarkan praktik pertanian yang berlaku?
+3. Kejelasan: Apakah jawaban mudah dipahami oleh petani awam?
+
+Balas HANYA dengan format JSON berikut, tanpa teks tambahan:
+{"relevansi": <angka 1-5>, "akurasi": <angka 1-5>, "kejelasan": <angka 1-5>, "alasan": "<penjelasan singkat 1 kalimat>"}
+
+
+----------------------------------------------------------------------------------------------------
+
+=== PROMPT 4 ===
+
+Anda adalah evaluator ahli pertanian yang bertugas menilai kualitas jawaban chatbot konsultasi pertanian.
+
+PERTANYAAN PENGGUNA:
+"Bagaimana cara mengatasi hama ulat pada tanaman kubis secara alami?"
+
+JAWABAN CHATBOT:
+"🌱 Hama Ulat Kubis:
+Ulat ini suka makan daun kubis, bikin bolong-bolong dan bisa merusak tanaman sampai gagal panen. 🐛
+
+🔍 Penyebab:
+- Kupu-kupu atau ngengat meletakkan telurnya di daun kubis.
+- Lingkungan yang cocok untuk ulat berkembang biak.
+
+🛠 Cara Penanganan:
+1.  Ambil ulatnya langsung pakai tangan, lalu buang atau musnahkan. Lakukan rutin setiap pagi atau sore.
+2.  Semprot tanaman dengan larutan air sabun cuci piring (sedikit saja sabunnya) atau larutan bawang putih/cabai yang dihaluskan dan dicampur air.
+3.  Tanam tanaman pengusir hama di sekitar kubis, contohnya bunga marigold atau selasih.
+4.  Pastikan kebun bersih dari gulma yang bisa jadi tempat persembunyian ulat.
+5.  Gunakan bakteri Bacillus thuringiensis (Bt) yang aman untuk tanaman dan manusia. Ini bisa dibeli di toko pertanian dan disemprotkan ke daun."
+
+Nilai jawaban chatbot tersebut berdasarkan tiga kriteria berikut, masing-masing dengan skala 1 sampai 5:
+
+1. Relevansi: Apakah jawaban sesuai dan menjawab pertanyaan yang diajukan?
+2. Akurasi: Apakah informasi yang diberikan secara umum benar berdasarkan praktik pertanian yang berlaku?
+3. Kejelasan: Apakah jawaban mudah dipahami oleh petani awam?
+
+Balas HANYA dengan format JSON berikut, tanpa teks tambahan:
+{"relevansi": <angka 1-5>, "akurasi": <angka 1-5>, "kejelasan": <angka 1-5>, "alasan": "<penjelasan singkat 1 kalimat>"}
+
+
+----------------------------------------------------------------------------------------------------
+
+=== PROMPT 5 ===
+
+Anda adalah evaluator ahli pertanian yang bertugas menilai kualitas jawaban chatbot konsultasi pertanian.
+
+PERTANYAAN PENGGUNA:
+"Pupuk apa yang cocok untuk mempercepat pertumbuhan jagung?"
+
+JAWABAN CHATBOT:
+"Halo Pak/Bu Tani! 👋
+
+Untuk mempercepat pertumbuhan jagung, pupuk yang paling penting adalah yang kaya Nitrogen (N).
+
+Berikut pupuk yang cocok:
+
+1.  Urea:
+    *   Kaya Nitrogen, sangat bagus untuk daun dan batang biar cepat tinggi. 🌿
+
+2.  NPK (misal 16-16-16 atau yang lebih tinggi N):
+    *   Mengandung Nitrogen (N), Fosfor (P), dan Kalium (K) seimbang. N untuk daun, P untuk akar, K untuk kekuatan tanaman. 💪
+
+3.  ZA (Zwit Zuur Amonium):
+    *   Juga kaya Nitrogen, tapi ada sedikit belerang yang bagus untuk warna daun. 💚
+
+Penting: Berikan pupuk sesuai dosis dan waktu yang tepat ya, biasanya saat jagung masih kecil (umur 7-15 hari dan 25-35 hari setelah tanam)."
+
+Nilai jawaban chatbot tersebut berdasarkan tiga kriteria berikut, masing-masing dengan skala 1 sampai 5:
+
+1. Relevansi: Apakah jawaban sesuai dan menjawab pertanyaan yang diajukan?
+2. Akurasi: Apakah informasi yang diberikan secara umum benar berdasarkan praktik pertanian yang berlaku?
+3. Kejelasan: Apakah jawaban mudah dipahami oleh petani awam?
+
+Balas HANYA dengan format JSON berikut, tanpa teks tambahan:
+{"relevansi": <angka 1-5>, "akurasi": <angka 1-5>, "kejelasan": <angka 1-5>, "alasan": "<penjelasan singkat 1 kalimat>"}
+
+
+----------------------------------------------------------------------------------------------------
+
+=== PROMPT 6 ===
+
+Anda adalah evaluator ahli pertanian yang bertugas menilai kualitas jawaban chatbot konsultasi pertanian.
+
+PERTANYAAN PENGGUNA:
+"Cara budidaya tanaman cabai yang baik dan benar"
+
+JAWABAN CHATBOT:
+"Halo Pak/Bu Tani! 👋
+
+Ini cara budidaya cabai yang baik dan benar agar hasilnya melimpah:
+
+1.  Pemilihan Bibit 🌱
+    *   Pilih bibit dari varietas unggul yang tahan penyakit.
+    *   Pastikan bibit sehat, daun hijau segar, dan tidak ada tanda hama.
+    *   Bisa beli bibit siap tanam atau semai sendiri dari biji cabai yang bagus.
+
+2.  Persiapan Lahan 🚜
+    *   Bersihkan lahan dari rumput liar atau sisa tanaman sebelumnya.
+    *   Gemburkan tanah dengan dicangkul atau dibajak.
+    *   Buat bedengan (gundukan tanah) setinggi 30-40 cm dan lebar 1 meter. Jarak antar bedengan sekitar 50 cm.
+    *   Campurkan pupuk kandang atau kompos sekitar 2-3 kg per meter persegi ke bedengan, lalu diamkan 1-2 minggu.
+
+3.  Penanaman 🌶️
+    *   Buat lubang tanam di atas bedengan dengan jarak sekitar 60x70 cm.
+    *   Pindahkan bibit cabai dari polybag ke lubang tanam saat sore hari atau pagi hari.
+    *   Tanam bibit hati-hati agar akar tidak rusak, lalu timbun sedikit tanah dan padatkan perlahan.
+
+4.  Perawatan 💧
+    *   Penyiraman: Siram tanaman secara teratur, terutama saat musim kemarau. Jangan sampai tanah terlalu kering atau terlalu becek.
+    *   Pemupukan: Beri pupuk susulan sesuai dosis anjuran, biasanya pupuk NPK, setelah 2 minggu tanam dan diulang setiap 2-3 minggu sekali.
+    *   Penyiangan: Bersihkan rumput liar di sekitar tanaman agar tidak berebut nutrisi.
+    *   Pemasangan Ajir: Pasang tongkat penyangga (ajir) di dekat tanaman saat umur 2-3 minggu agar tanaman tidak roboh.
+    *   Pengendalian Hama dan Penyakit: Periksa tanaman secara rutin. Jika ada tanda hama atau penyakit, segera tangani sesuai jenisnya.
+
+5.  Panen 🧺
+    *   Cabai bisa mulai dipanen setelah umur 75-90 hari setelah tanam, tergantung jenis cabainya.
+    *   Panen saat buah cabai sudah berwarna merah penuh atau sesuai keinginan pasar.
+    *   Petik buah cabai beserta tangkainya agar lebih awet.
+    *   Panen bisa dilakukan berkali-kali (2-3 hari sekali) selama tanaman masih produktif."
+
+Nilai jawaban chatbot tersebut berdasarkan tiga kriteria berikut, masing-masing dengan skala 1 sampai 5:
+
+1. Relevansi: Apakah jawaban sesuai dan menjawab pertanyaan yang diajukan?
+2. Akurasi: Apakah informasi yang diberikan secara umum benar berdasarkan praktik pertanian yang berlaku?
+3. Kejelasan: Apakah jawaban mudah dipahami oleh petani awam?
+
+Balas HANYA dengan format JSON berikut, tanpa teks tambahan:
+{"relevansi": <angka 1-5>, "akurasi": <angka 1-5>, "kejelasan": <angka 1-5>, "alasan": "<penjelasan singkat 1 kalimat>"}
+
+
+----------------------------------------------------------------------------------------------------
+
+=== PROMPT 7 ===
+
+Anda adalah evaluator ahli pertanian yang bertugas menilai kualitas jawaban chatbot konsultasi pertanian.
+
+PERTANYAAN PENGGUNA:
+"Daun padi saya menguning dan ada bercak coklat, itu penyakit apa dan bagaimana mengatasinya?"
+
+JAWABAN CHATBOT:
+"🌱 Penyakit / Masalah: Bercak Cokelat (Brown Spot)
+Daun padi menguning dan muncul bercak-bercak bulat atau oval berwarna cokelat gelap. Bercak ini bisa membesar dan menyebabkan daun kering.
+
+🔍 Penyebab:
+- Jamur Bipolaris oryzae.
+- Kekurangan unsur hara, terutama Kalium (K) atau Silika (Si).
+- Tanah kurang subur atau drainase buruk.
+
+🛠 Cara Penanganan:
+1.  Pilih varietas padi yang tahan penyakit.
+2.  Berikan pupuk berimbang sesuai kebutuhan tanah, terutama pupuk Kalium dan Silika.
+3.  Perbaiki pengairan dan drainase sawah.
+4.  Bersihkan sisa-sisa tanaman terinfeksi setelah panen.
+5.  Jika serangan parah, semprotkan fungisida yang dianjurkan untuk bercak cokelat."
+
+Nilai jawaban chatbot tersebut berdasarkan tiga kriteria berikut, masing-masing dengan skala 1 sampai 5:
+
+1. Relevansi: Apakah jawaban sesuai dan menjawab pertanyaan yang diajukan?
+2. Akurasi: Apakah informasi yang diberikan secara umum benar berdasarkan praktik pertanian yang berlaku?
+3. Kejelasan: Apakah jawaban mudah dipahami oleh petani awam?
+
+Balas HANYA dengan format JSON berikut, tanpa teks tambahan:
+{"relevansi": <angka 1-5>, "akurasi": <angka 1-5>, "kejelasan": <angka 1-5>, "alasan": "<penjelasan singkat 1 kalimat>"}
+
+
+----------------------------------------------------------------------------------------------------
+
+=== PROMPT 8 ===
+
+Anda adalah evaluator ahli pertanian yang bertugas menilai kualitas jawaban chatbot konsultasi pertanian.
+
+PERTANYAAN PENGGUNA:
+"Kapan waktu yang tepat untuk menanan padi"
+
+JAWABAN CHATBOT:
+"Waktu terbaik menanam padi biasanya saat awal musim hujan. 🌧️ Ini karena padi butuh banyak air untuk tumbuh.
+
+Di daerah dengan irigasi yang baik, bisa juga tanam di musim kemarau asalkan pasokan airnya terjamin. 💧
+
+Kuncinya adalah memastikan ketersediaan air yang cukup selama masa tanam."
+
+Nilai jawaban chatbot tersebut berdasarkan tiga kriteria berikut, masing-masing dengan skala 1 sampai 5:
+
+1. Relevansi: Apakah jawaban sesuai dan menjawab pertanyaan yang diajukan?
+2. Akurasi: Apakah informasi yang diberikan secara umum benar berdasarkan praktik pertanian yang berlaku?
+3. Kejelasan: Apakah jawaban mudah dipahami oleh petani awam?
+
+Balas HANYA dengan format JSON berikut, tanpa teks tambahan:
+{"relevansi": <angka 1-5>, "akurasi": <angka 1-5>, "kejelasan": <angka 1-5>, "alasan": "<penjelasan singkat 1 kalimat>"}
+
+
+----------------------------------------------------------------------------------------------------
+
+=== PROMPT 9 ===
+
+Anda adalah evaluator ahli pertanian yang bertugas menilai kualitas jawaban chatbot konsultasi pertanian.
+
+PERTANYAAN PENGGUNA:
+"Apa fungsi pupuk NPK pada tanaman"
+
+JAWABAN CHATBOT:
+"Halo Pak/Bu Tani! 👋
+
+Pupuk NPK itu penting sekali untuk tanaman kita. NPK itu singkatan dari Nitrogen (N), Fosfor (P), dan Kalium (K). Ketiganya adalah nutrisi utama yang paling dibutuhkan tanaman supaya tumbuh subur dan hasil panennya bagus.
+
+Ini fungsi masing-masingnya:
+
+🌱 Nitrogen (N):
+- Untuk pertumbuhan daun dan batang.
+- Membuat tanaman hijau royo-royo.
+- Penting di awal pertumbuhan.
+
+🌸 Fosfor (P):
+- Untuk pertumbuhan akar yang kuat.
+- Membantu pembentukan bunga dan buah.
+- Membuat tanaman lebih tahan penyakit.
+
+🥔 Kalium (K):
+- Untuk kualitas buah dan biji.
+- Membuat tanaman lebih kuat dari kekeringan atau penyakit.
+- Membantu proses fotosintesis.
+
+Jadi, pupuk NPK itu seperti makanan lengkap supaya tanaman kita sehat, berdaun lebat, berakar kuat, berbunga banyak, dan berbuah lebat. 🍎🌿"
+
+Nilai jawaban chatbot tersebut berdasarkan tiga kriteria berikut, masing-masing dengan skala 1 sampai 5:
+
+1. Relevansi: Apakah jawaban sesuai dan menjawab pertanyaan yang diajukan?
+2. Akurasi: Apakah informasi yang diberikan secara umum benar berdasarkan praktik pertanian yang berlaku?
+3. Kejelasan: Apakah jawaban mudah dipahami oleh petani awam?
+
+Balas HANYA dengan format JSON berikut, tanpa teks tambahan:
+{"relevansi": <angka 1-5>, "akurasi": <angka 1-5>, "kejelasan": <angka 1-5>, "alasan": "<penjelasan singkat 1 kalimat>"}
+
+
+----------------------------------------------------------------------------------------------------
+
+=== PROMPT 10 ===
+
+Anda adalah evaluator ahli pertanian yang bertugas menilai kualitas jawaban chatbot konsultasi pertanian.
+
+PERTANYAAN PENGGUNA:
+"Bagaimana cara mengatasi tanaman terong saya yg terkena jamur?"
+
+JAWABAN CHATBOT:
+"🌱 Penyakit / Masalah: Jamur pada Terong
+Daun atau batang terong terlihat bercak, menguning, atau layu karena serangan jamur.
+
+🔍 Penyebab:
+- Kelembaban tinggi
+- Sirkulasi udara buruk
+- Tanaman terlalu rapat
+- Bibit atau tanah sudah terinfeksi
+- Nutrisi tanaman kurang seimbang
+
+🛠 Cara Penanganan:
+1. Buang bagian tanaman yang sakit dan bakar atau kubur jauh dari kebun.
+2. Semprot fungisida. Bisa pakai yang nabati (misal: ekstrak bawang putih) atau kimia sesuai dosis.
+3. Atur jarak tanam agar tidak terlalu rapat, supaya sirkulasi udara bagus.
+4. Kurangi kelembaban di sekitar tanaman, jangan terlalu sering menyiram atau menyiram di pagi hari.
+5. Beri pupuk yang seimbang agar tanaman kuat melawan penyakit."
+
+Nilai jawaban chatbot tersebut berdasarkan tiga kriteria berikut, masing-masing dengan skala 1 sampai 5:
+
+1. Relevansi: Apakah jawaban sesuai dan menjawab pertanyaan yang diajukan?
+2. Akurasi: Apakah informasi yang diberikan secara umum benar berdasarkan praktik pertanian yang berlaku?
+3. Kejelasan: Apakah jawaban mudah dipahami oleh petani awam?
+
+Balas HANYA dengan format JSON berikut, tanpa teks tambahan:
+{"relevansi": <angka 1-5>, "akurasi": <angka 1-5>, "kejelasan": <angka 1-5>, "alasan": "<penjelasan singkat 1 kalimat>"}
+
+
+----------------------------------------------------------------------------------------------------
